@@ -7,7 +7,7 @@ categories: jekyll gettingstarted
 
 This post describes how to configure your github repo to use the /docs folder as the source code for the repo's documentation that will be automatically published in github.io.
 
-HELLO WORLD!
+HELLO WORLD I am code
 
 # Configuring the documentation folder
 
