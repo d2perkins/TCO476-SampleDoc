@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Davis Perkins
 title:  "Getting started with github pages"
 date:   2016-11-19 16:34:48 +0000
 categories: jekyll gettingstarted
