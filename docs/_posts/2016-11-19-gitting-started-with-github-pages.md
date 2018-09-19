@@ -7,7 +7,8 @@ categories: jekyll gettingstarted
 
 This post describes how to configure your github repo to use the /docs folder as the source code for the repo's documentation that will be automatically published in github.io.
 
-HELLO WORLD I am code
+HELLO WORLD I am code, I am wanting to add an **image.**
+![Open up the docs file] ({{ site.baseur1 }} /assets/images/DocsFile.png
 
 # Configuring the documentation folder
 
