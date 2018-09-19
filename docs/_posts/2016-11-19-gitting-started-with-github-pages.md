@@ -11,6 +11,8 @@ HELLO WORLD I am code, I am wanting to add an **image.**
 
 ![Open up the docs file]({{site.baseurl}}/assets/images/DocsFile.png)
 
+[Need more help? Check here!](https://www.google.com/)
+
 # Configuring the documentation folder
 
 1. In the repo's [**Settings**]({{ site.baseurl }}/pages/RepoSettings.html), in the [**GitHub Pages**]({{ site.baseurl }}/pages/GitHubWSettings.html) section, set (or ensure that) the doc source to _none_.
