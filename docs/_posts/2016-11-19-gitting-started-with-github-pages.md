@@ -20,10 +20,10 @@ HELLO WORLD I am code, I am wanting to add an **image.**
 4. You?
 
 # This is another list
-*I
-*Am
-*Good,
-*Thanks.
+-I
+-Am
+-Good,
+-Thanks.
 
 # Configuring the documentation folder
 
