@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Davis Perkins
 title:  "First New Page"
 date:   2018-09-19 16:34:48 +0000
 categories: jekyll gettingstarted
