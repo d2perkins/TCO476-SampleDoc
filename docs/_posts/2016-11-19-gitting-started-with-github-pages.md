@@ -14,7 +14,7 @@ HELLO WORLD I am code, I am wanting to add an **image.**
 [Need more help? Check here!](https://www.google.com/)
 
 # This is a list
-1. Hello
+1. Hello,
 2. How
 3. Are
 4. You?
