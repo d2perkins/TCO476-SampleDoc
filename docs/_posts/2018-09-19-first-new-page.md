@@ -9,5 +9,5 @@ This is the first page I've made for my site. We're doing this to get basic prac
 
 ![Thumbs up for learning new skills.](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/socialmedia/apple/129/thumbs-up-sign_1f44d.png)
 
-Courtsey from [Emojipedia](https://emojipedia.org/thumbs-up-sign/).
+"Thumbs-Up!" emoji courtsey of [Emojipedia](https://emojipedia.org/thumbs-up-sign/).
 
