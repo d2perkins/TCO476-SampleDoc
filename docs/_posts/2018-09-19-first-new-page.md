@@ -8,10 +8,6 @@ categories: jekyll gettingstarted
 
 This is the first page I've made for my site. We're doing this to get basic practice with HTML and it's pretty handy. Looking forward, I'll discuss the basics for creating a new page in GitHub. Specifically, how I created my "About Me!" page linked to my homepage.
 
-![Thumbs up for learning new skills.](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/socialmedia/apple/129/thumbs-up-sign_1f44d.png)
-
-"Thumbs-Up!" emoji courtsey of [Emojipedia](https://emojipedia.org/thumbs-up-sign/).
-
 ## Creating a New Page
 
 A page is great for long-term, permanent posts. In this case, we're wanting to create a page linked to the homepage about me and a picture of me with a cute little biography and some fun facts.
@@ -28,3 +24,11 @@ I started with the picture, so do to that we need to:
  - Link to that picture using `![x](y)` notation.
  
  Moving on, type the content as needed. For fun and practice, I created a list of fun facts using minuses instead of a numbered list.
+
+Afterwards, we need to link the page to the homepage. I manually searched for my page, typing in ".../pages/aboutme.html" following my sitename.
+
+Take that link and copy/paste it into the index file which will directly link it on the homepage!
+
+![Thumbs up for learning new skills.](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/socialmedia/apple/129/thumbs-up-sign_1f44d.png)
+
+"Thumbs-Up!" emoji courtsey of [Emojipedia](https://emojipedia.org/thumbs-up-sign/).
