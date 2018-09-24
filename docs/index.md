@@ -6,6 +6,8 @@ layout: default
 
 The **TCO476-SampleDoc** project tests the github pages documentation for a github repo.
 
+[About Me!](https://d2perkins.github.io/TCO476-SampleDoc/pages/aboutme.html)
+
 
 <div class="home">
 
