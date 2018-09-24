@@ -25,6 +25,6 @@ I started with the picture, so do to that we need to:
 
  - Find a good picture to use for this assignment
  - Upload the picture to the assets/image folder
- - Link to that picture using "![x](y)" notation.
+ - Link to that picture using \!\[x\]\(y\) notation.
  
  Moving on, type the content as needed. For fun and practice, I created a list of fun facts using minuses instead of a numbered list.
