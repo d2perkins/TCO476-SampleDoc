@@ -14,4 +14,17 @@ This is the first page I've made for my site. We're doing this to get basic prac
 
 ## Creating a New Page
 
-A page is great for long-term, permanent posts. In this case, we're wanting to create a page linked to the homepage about me and a picture of me.
+A page is great for long-term, permanent posts. In this case, we're wanting to create a page linked to the homepage about me and a picture of me with a cute little biography and some fun facts.
+
+In order to do so, we'll follow this simple guide:
+
+- Create a new file, "aboutme.md"
+- Copy and paste the metadata from previous posts in order to keep the same layout as the rest of the page
+
+I started with the picture, so do to that we need to:
+
+ - Find a good picture to use for this assignment
+ - Upload the picture to the assets/image folder
+ - Link to that picture using ![x](y) notation.
+ 
+ Moving on, type the content as needed. For fun and practice, I created a list of fun facts using minuses instead of a numbered list.
