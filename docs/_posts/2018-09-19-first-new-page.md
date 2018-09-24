@@ -12,6 +12,6 @@ This is the first page I've made for my site. We're doing this to get basic prac
 
 "Thumbs-Up!" emoji courtsey of [Emojipedia](https://emojipedia.org/thumbs-up-sign/).
 
-# Creating a New Page
+## Creating a New Page
 
 A page is great for long-term, permanent posts. In this case, we're wanting to create a page linked to the homepage about me and a picture of me.
